@@ -1,5 +1,5 @@
 // [BackJoon] 11720번 : 숫자의 합
-package String;
+package string;
 
 import java.io.BufferedReader;
 import java.io.IOException;

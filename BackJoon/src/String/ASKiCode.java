@@ -1,5 +1,5 @@
 // [BackJoon] 11654번 : 아스키 코드
-package String;
+package string;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,5 +1,5 @@
 // [BackJoon] 1152번 : 단어의 개수
-package String;
+package string;
 
 import java.io.BufferedReader;
 import java.io.IOException;

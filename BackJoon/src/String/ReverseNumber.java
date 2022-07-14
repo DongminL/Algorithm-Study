@@ -1,5 +1,5 @@
 // [BackJoon] 2908번 : 상수
-package String;
+package string;
 
 import java.io.BufferedReader;
 import java.io.IOException;

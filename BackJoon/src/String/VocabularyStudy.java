@@ -1,5 +1,5 @@
 // [BackJoon] 1157번 : 단어 공부
-package String;
+package string;
 
 import java.io.BufferedReader;
 import java.io.IOException;

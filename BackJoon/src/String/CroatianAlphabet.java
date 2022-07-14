@@ -1,5 +1,5 @@
 // [BackJoon] 2941번 : 크로아티아 알파벳
-package String;
+package string;
 
 import java.io.BufferedReader;
 import java.io.IOException;

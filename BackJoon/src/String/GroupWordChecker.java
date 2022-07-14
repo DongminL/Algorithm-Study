@@ -1,5 +1,5 @@
 // [BackJoon] 1316번 : 그룹 단어 체커
-package String;
+package string;
 
 import java.io.BufferedReader;
 import java.io.IOException;

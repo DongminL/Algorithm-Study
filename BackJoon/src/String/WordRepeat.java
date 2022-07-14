@@ -1,5 +1,5 @@
 // [BackJoon] 2675번 : 문자열 반복
-package String;
+package string;
 
 import java.io.BufferedReader;
 import java.io.IOException;
