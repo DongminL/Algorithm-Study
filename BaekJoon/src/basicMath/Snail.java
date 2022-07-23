@@ -1,4 +1,4 @@
-// [BackJoon] 2869번 : 달팽이는 올라가고 싶다
+// [BackJoon] 2869번 : 달팽이는 올라가고 싶다.
 package basicMath;
 
 import java.io.*;
