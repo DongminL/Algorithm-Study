@@ -13,7 +13,6 @@ public class CoordinatesSort2 {
 
         int n = Integer.parseInt(br.readLine());
         Coordinate2[] coordinates = new Coordinate2[n];
-        String toString;
 
         for (int i = 0; i < n; i++) {
             st = new StringTokenizer(br.readLine());
