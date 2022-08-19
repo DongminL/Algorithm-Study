@@ -13,7 +13,6 @@ public class SortByAge {
 
         int n = Integer.parseInt(br.readLine());
         Person[] people = new Person[n];
-        String toString;
 
         for (int i = 0; i < n; i++) {
             st = new StringTokenizer(br.readLine());
